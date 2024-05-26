@@ -1,0 +1,14 @@
+C:\Dev\BasicCalculator_CSHARP\bin\Debug\net8.0\BasicCalculator_CSHARP.exe
+C:\Dev\BasicCalculator_CSHARP\bin\Debug\net8.0\BasicCalculator_CSHARP.deps.json
+C:\Dev\BasicCalculator_CSHARP\bin\Debug\net8.0\BasicCalculator_CSHARP.runtimeconfig.json
+C:\Dev\BasicCalculator_CSHARP\bin\Debug\net8.0\BasicCalculator_CSHARP.dll
+C:\Dev\BasicCalculator_CSHARP\bin\Debug\net8.0\BasicCalculator_CSHARP.pdb
+C:\Dev\BasicCalculator_CSHARP\obj\Debug\net8.0\BasicCalculator_CSHARP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\BasicCalculator_CSHARP\obj\Debug\net8.0\BasicCalculator_CSHARP.AssemblyInfoInputs.cache
+C:\Dev\BasicCalculator_CSHARP\obj\Debug\net8.0\BasicCalculator_CSHARP.AssemblyInfo.cs
+C:\Dev\BasicCalculator_CSHARP\obj\Debug\net8.0\BasicCalculator_CSHARP.csproj.CoreCompileInputs.cache
+C:\Dev\BasicCalculator_CSHARP\obj\Debug\net8.0\BasicCalculator_CSHARP.dll
+C:\Dev\BasicCalculator_CSHARP\obj\Debug\net8.0\refint\BasicCalculator_CSHARP.dll
+C:\Dev\BasicCalculator_CSHARP\obj\Debug\net8.0\BasicCalculator_CSHARP.pdb
+C:\Dev\BasicCalculator_CSHARP\obj\Debug\net8.0\BasicCalculator_CSHARP.genruntimeconfig.cache
+C:\Dev\BasicCalculator_CSHARP\obj\Debug\net8.0\ref\BasicCalculator_CSHARP.dll
